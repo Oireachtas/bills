@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13 ./akomantoso30.xsd ">
+  <bill name="Bill">
+    <meta>
+      <identification source="#BillsOffice">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2015/30/main"/>
+          <FRBRuri value="/ie/oireachtas/bill/2015/30"/>
+          <FRBRdate date="2015-03-25" name="presented"/>
+          <FRBRauthor as="sponsor" href="#sponsor?"/>
+          <FRBRcountry value="#ie"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2015/30/eng@initiated/main"/>
+          <FRBRuri value="/ie/oireachtas/bill/2015/30/eng@initiated"/>
+          <FRBRdate date="2015-03-25" name="published"/>
+          <FRBRauthor as="sponsor" href="?sponsor?"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2015/30/eng@As initiated/main.xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2015/30/eng@As initiated.xml"/>
+          <FRBRdate date="2016-10-04" name="transformed"/>
+          <FRBRauthor as="editor" href="#BillsOffice"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <toc class="body">
+        <tocItem class="sectionnumber" href="#section-1" level="1">
+          <inline name="tocNum">1. </inline>
+          <inline name="tocHeading">Definition</inline>
+        </tocItem>
+        <tocItem class="sectionnumber" href="#section-2" level="1">
+          <inline name="tocNum">2. </inline>
+          <inline name="tocHeading">Amendment of section 58 of Act of 1970</inline>
+        </tocItem>
+        <tocItem class="sectionnumber" href="#section-3" level="1">
+          <inline name="tocNum">3. </inline>
+          <inline name="tocHeading">Amendment of section 58A of Act of 1970</inline>
+        </tocItem>
+        <tocItem class="sectionnumber" href="#section-4" level="1">
+          <inline name="tocNum">4. </inline>
+          <inline name="tocHeading">Short title, collective citation and commencement</inline>
+        </tocItem>
+      </toc>
+      <container name="actsReferredTo">
+        <p>Acts Referred To</p>
+        <p>
+          <a href="#act.2010.24">Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 (No. 24)</a>
+        </p>
+        <p>
+          <a href="#act.2013.10">Health (Alteration of Criteria for Eligibility) Act 2013 (No. 10)</a>
+        </p>
+        <p>
+          <a href="#act.2014.28">Health (General Practitioner Service) Act 2014 (No. 28)</a>
+        </p>
+        <p>
+          <a href="#act.2006.17">Health (Repayment Scheme) Act 2006 (No. 17)</a>
+        </p>
+        <p>
+          <a href="#act.1970.1">Health Act 1970 (No. 1)</a>
+        </p>
+        <p>Health Acts 1947 to 2014</p>
+        <p>Hepatitis C Compensation Tribunal Acts 1997 to 2006</p>
+      </container>
+    </coverPage>
+    <preface>
+      <p class="ga_shorttitle">
+        <shortTitle>AN BILLE SLÁINTE (SEIRBHÍS LIA-CHLEACHTÓIRÍ GINEARÁLTA), 2015</shortTitle>
+      </p>
+      <p class="en_shorttitle">
+        <shortTitle>Health (General Practitioner Service) Bill 2015</shortTitle>
+      </p>
+      <p class="ga_stage">
+        <docStage>Mar a tionscnaíodh</docStage>
+      </p>
+      <p class="en_stage">
+        <docStage>As initiated</docStage>
+      </p>
+      <p class="status">
+        <docStatus>Bill</docStatus>
+      </p>
+      <p>entitled</p>
+      <longTitle>
+        <p>An Act to amend the <a href="http://www.irishstatutebook.ie/1970/en/act/pub/0001/index.html">Health Act 1970</a> to provide for the making available without charge of a general practitioner medical and surgical service to persons who are ordinarily resident in the State and who have attained the age of 70 years, and to certain other persons; and to provide for related matters.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <p>Be it enacted by the Oireachtas as follows:</p>
+    </preamble>
+    <body>
+      <section eId="section-1">
+        <num>1</num>
+        <heading>Definition</heading>
+        <content>
+          <p> In this Act “Act of 1970” means the <a href="http://www.irishstatutebook.ie/1970/en/act/pub/0001/index.html">Health Act 1970</a>.</p>
+        </content>
+      </section>
+      <section eId="section-2">
+        <num>2</num>
+        <heading>Amendment of section 58 of Act of 1970</heading>
+        <intro>
+          <p> Section 58 (amended by section 4 of the <a href="http://www.irishstatutebook.ie/2014/en/act/pub/0028/index.html">Health (General Practitioner Service) Act 2014</a>) of the Act of 1970 is amended⁠—</p>
+        </intro>
+        <paragraph eId="section-2_paragraph-a">
+          <num>a</num>
+          <content>
+            <p>by the substitution, in subsection (1), of “Subject to subsections (4) and (5),” for “Subject to subsection (4),”, and</p>
+          </content>
+        </paragraph>
+        <paragraph eId="section-2_paragraph-b">
+          <num>b</num>
+          <content>
+            <p>by the insertion of the following subsection after subsection (4):</p>
+            <p class="subsection_insert"> “(5) For the purposes of this section, a person shall be deemed not to come within a category mentioned in paragraph (a), (b) or (c) of subsection (1) where that person has attained the age of 70 years.”.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section eId="section-3">
+        <num>3</num>
+        <heading>Amendment of section 58A of Act of 1970</heading>
+        <content>
+          <p> The Act of 1970 is amended by the substitution of the following section for section 58A (inserted by section 7 of the <a href="http://www.irishstatutebook.ie/2013/en/act/pub/0010/index.html">Health (Alteration of Criteria for Eligibility) Act 2013</a>):</p>
+          <p class="subsection_insert">“58A. (1) The Health Service Executive shall make available without charge a general practitioner medical and surgical service for a person who is ordinarily resident in the State in one of the following categories:</p>
+          <p class="paragraph_insert"> (a) persons who have attained the age of 70 years;</p>
+          <p class="paragraph_insert"> (b) dependants of qualifying persons where the Health Service Executive has, in accordance with subsection (5)(a), confirmed that a condition specified in subsection (2) is met by the qualifying person concerned, for so long as that condition is met.</p>
+          <p class="subsection_insert"> (2) A qualifying person meets a condition referred to in subsection (1)(b) where⁠—</p>
+          <p class="paragraph_insert"> (a) in the case of a qualifying person who is not married, is not living together with another person as husband and wife and does not have a civil partner, his or her gross income does not exceed the gross income limit specified in subsection (3)(a),</p>
+          <p class="paragraph_insert"> (b) in the case of a qualifying person who is married, the combined gross income of the person and his or her spouse does not exceed the gross income limit specified in subsection (3)(b),</p>
+          <p class="paragraph_insert"> (c) in the case of a qualifying person who is living together with another person as husband and wife, the combined gross income of the person and that other person does not exceed the gross income limit specified in subsection (3)(b), or</p>
+          <p class="paragraph_insert"> (d) in the case of a qualifying person who has a civil partner, the combined gross income of the person and his or her civil partner does not exceed the gross income limit specified in subsection (3)(b).</p>
+          <p class="subsection_insert"> (3) Subject to subsection (9)⁠—</p>
+          <p class="paragraph_insert"> (a) for the purposes of subsection (2)(a), the gross income limit shall be €700 per week, not including the income from the portion of the person’s savings or similar investments whose capital value does not exceed €36,000, and</p>
+          <p class="paragraph_insert"> (b) for the purposes of subsection (2)(b), (c) and (d), the gross income limit shall be €1,400 per week, not including the income from the portion of the persons’ savings or similar investments whose capital value does not exceed €72,000.</p>
+          <p class="subsection_insert"> (4) A qualifying person may, for the purposes of subsection (1)(b), make an application to the Health Service Executive, in such form as it considers appropriate, for confirmation that a condition specified in subsection (2) is met by him or her.</p>
+          <p class="subsection_insert"> (5) The Health Service Executive shall, on receipt of an application under subsection (4), consider the application, together with any information furnished to it pursuant to a request under subsection (6), and⁠—</p>
+          <p class="paragraph_insert"> (a) if it is satisfied that a condition specified in subsection (2) is met by the qualifying person concerned, provide the qualifying person with confirmation in writing that the condition is met by him or her, or</p>
+          <p class="paragraph_insert"> (b) if it is not so satisfied, provide the qualifying person with a notice in writing stating that the application has been refused and the reasons for such refusal.</p>
+          <p class="subsection_insert"> (6) A person shall, when requested to do so by the Health Service Executive, furnish to the Health Service Executive such information as the Health Service Executive considers necessary for it to establish that the person, or his or her dependant, as the case may be, is, or continues to be, entitled under subsection (1) to the service referred to in that subsection.</p>
+          <p class="subsection_insert"> (7) Where a person fails or refuses to furnish the information requested by the Health Service Executive under subsection (6) within such reasonable period as is specified in the request, the Health Service Executive may⁠—</p>
+          <p class="paragraph_insert"> (a) if the information requested relates to the person’s entitlement under subsection (1)(a) to the service referred to in that subsection, treat the person concerned as if he or she was not entitled under subsection (1)(a) to the service referred to in that subsection, and</p>
+          <p class="paragraph_insert"> (b) if the information requested relates to the entitlement of the person’s dependant under subsection (1)(b) to the service referred to in that subsection, treat the dependant concerned as if he or she was not entitled under subsection (1)(b) to the service referred to in that subsection.</p>
+          <p class="subsection_insert"> (8) The Health Service Executive shall provide any necessary assistance to any person in the making of an application under subsection (4) or the furnishing of information requested under subsection (6), as the case may be, where, by reason of any incapacity, such person requests such assistance.</p>
+          <p class="subsection_insert"> (9) The Minister shall, on 1 September of every year, review the most recent information on the consumer price index made available by the Central Statistics Office and may, with the consent of the Minister for Public Expenditure and Reform, by regulations to take effect on 1 January next following that review, increase or decrease the gross income limits specified in subsection (3) to reflect any increase or decrease in that index.</p>
+          <p class="subsection_insert"> (10) In the calculation of gross income for the purposes of this section, all gross income from all sources shall be included other than the gross income arising from the following sources of income, and any subsequent income from the investment of the monies arising from those sources:</p>
+          <p class="paragraph_insert"> (a) compensation awarded under the Hepatitis C Compensation Tribunal Acts 1997 to 2006;</p>
+          <p class="paragraph_insert"> (b) compensation awarded by the Residential Institutions Redress Board;</p>
+          <p class="paragraph_insert"> (c) prescribed repayments referred to in section 8(2) of the <a href="http://www.irishstatutebook.ie/2006/en/act/pub/0017/index.html"/><a href="http://www.irishstatutebook.ie/2006/en/act/pub/0017/index.html">Health </a><a href="http://www.irishstatutebook.ie/2006/en/act/pub/0017/index.html"/><a href="http://www.irishstatutebook.ie/2006/en/act/pub/0017/index.html">(Repayment Scheme) Act 2006</a>;</p>
+          <p class="paragraph_insert"> (d) ex-gratia awards approved by the Lourdes Hospital Redress Board under the terms of the Lourdes Hospital Redress Scheme 2007;</p>
+          <p class="paragraph_insert"> (e) such other awards and payments prescribed in regulations made under subsection (12).</p>
+          <p class="subsection_insert"> (11) In the calculation of gross income for the purposes of this section, income shall not be imputed from property comprising an interest in land (whether a family home, a holiday home or any other property) other than any net rental income (calculated as gross rental income less any cost necessarily incurred and associated with the rental of the property).</p>
+          <p class="subsection_insert"> (12) The Minister may make regulations prescribing a class or classes of awards or payments not coming within paragraphs (a) to (d) of subsection (10) but which the Minister considers to be made for a similar purpose as those made under those paragraphs.</p>
+          <p class="subsection_insert"> (13) Insofar as considered practicable by the Health Service Executive, a choice of medical practitioner shall be offered under the general practitioner medical and surgical service made available under this section.</p>
+          <p class="subsection_insert"> (14) In this section⁠—</p>
+          <p class="subsection_insert">  ‘civil partner’ has the same meaning as it has in the <a href="http://www.irishstatutebook.ie/2010/en/act/pub/0024/index.html">Civil Partnership </a><a href="http://www.irishstatutebook.ie/2010/en/act/pub/0024/index.html"/><a href="http://www.irishstatutebook.ie/2010/en/act/pub/0024/index.html">and Certain Rights and Obligations of Cohabitants Act 2010</a>;</p>
+          <p class="subsection_insert">  ‘dependants’ means dependants who have not attained the age of 70 years;</p>
+          <p class="subsection_insert">  ‘qualifying person’ means a person who is entitled under subsection (1)(a) to the service referred to in that subsection.”.</p>
+        </content>
+      </section>
+      <section eId="section-4">
+        <num>4</num>
+        <heading>Short title, collective citation and commencement</heading>
+        <subsection eId="section-4_subsection-1">
+          <num>1</num>
+          <content>
+            <p> ( This Act may be cited as the Health (General Practitioner Service) Act 2015.</p>
+          </content>
+        </subsection>
+        <subsection eId="section-4_subsection-2">
+          <num>2</num>
+          <content>
+            <p>This Act and the Health Acts 1947 to 2014 may be cited together as the Health Acts 1947 to 2015 and shall be construed together as one Act.</p>
+          </content>
+        </subsection>
+        <subsection eId="section-4_subsection-3">
+          <num>3</num>
+          <content>
+            <p>This Act comes into operation on such day or days as the Minister for Health may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.</p>
+            <p class="subsection"/>
+            <p class="Standard"/>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>
